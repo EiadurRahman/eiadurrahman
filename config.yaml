@@ -130,8 +130,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Eiad"
-    subtitle: "I build things with python"
-    content: "A passionate selftought python dev. I tend to make use of python for automation, scripting etc"
+    subtitle: "Crafting Solutions with Python"
+    content: "A self-taught Python developer with a passion for automation, scripting, and building practical solutions."
     image: /images/profile.svg
     bottomImage:
       enable: true
@@ -158,11 +158,12 @@ params:
     title: "About Me"
     image: "/images/profile.svg"
     content: |-
-     some stuff about me
+      I'm a passionate self-taught Python developer with a strong focus on automation, scripting, and solving real-world problems with code.
 
     skills:
       enable: true
-      title: "Here are a few technologies and tools I've been working with recently:"
+      title: "Technologies and Tools I'm Currently Working With:"
+
       items:
         - "Python"
         - "MicroPython"
