@@ -220,7 +220,7 @@ params:
           
       - job: "Open Source Contributor (Beginner)"
         company: "GitHub Projects"
-        companyUrl: "https://github.com"
+        companyUrl: "https://github.com/eiadurRahman/"
         date: "2024 - Present"
         featuredLink:
           enable: false
