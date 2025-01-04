@@ -183,7 +183,7 @@ params:
       - job: "Freelance Python Developer"
         company: "Self-Employed"
         companyUrl: ""
-        date: "Jan 2024 - Present"
+        date: "Oct 2021 - Present"
         featuredLink:
           enable: false
         content: |
@@ -196,7 +196,7 @@ params:
       - job: "Microcontroller Programming Enthusiast"
         company: "Independent Projects"
         companyUrl: ""
-        date: "Oct 2024 - Present"
+        date: "Feb 2022 - Present"
         featuredLink:
           enable: false
         content: |
@@ -209,7 +209,7 @@ params:
       - job: "AI/ML Enthusiast"
         company: "Independent Research"
         companyUrl: ""
-        date: "Nov 2024 - Present"
+        date: "Jun 2023 - Present"
         featuredLink:
           enable: false
         content: |
@@ -240,7 +240,7 @@ params:
         school:
           name: "Omargani M.E.S. College"
           url: "#"
-        date: "2024 (Expected)"
+        date: "2025 (Expected)"
         content: |-
           Focused on the science stream with a passion for ICT, Math, and Physics. Building a strong academic foundation to pursue a career in the IT industry.
       - title: "Self-Taught Programmer"
