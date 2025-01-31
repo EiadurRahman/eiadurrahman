@@ -146,8 +146,8 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/eiadurRahman/
-        - icon: fab fa-instagram
-          url: https://www.instagram.com/_im_yaad_/
+        # - icon: fab fa-instagram
+        #   url: https://www.instagram.com/_im_yaad_/
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://example.com"
@@ -167,6 +167,7 @@ params:
       items:
         - "Python"
         - "MicroPython"
+        - "Git & GitHub"
         - "Hugo (Static Site Generator)"
         - "BeautifulSoup & Requests"
         - "FFmpeg (Media Processing)"
