@@ -328,6 +328,18 @@ params:
           - icon: fab fa-github
             url: https://github.com/EiadurRahman/mpu6050lib
 
+      - title: "A Website for a local business(coaching institute)"
+        content: "A hybride (static website with dynamic features) website for a local coaching institute, built using HTML, CSS, and JavaScript on hugo framework. The website includes information about the institute, courses offered, and contact details. (1st draft). 2nd draft is under development."
+        image: /images/projects/nextworldIT.png
+        featured:
+          name: "View the site"
+          link: https://nextworldit.com
+        badges:
+          - "HTML,css,js,hugo"
+        links:
+          - icon: fa-solid fa-globe
+            url: https://github.com/EiadurRahman/mpu6050lib
+
 
   #Contact
   contact:
