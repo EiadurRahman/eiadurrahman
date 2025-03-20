@@ -339,7 +339,19 @@ params:
           - "HTML,css,js,hugo"
         links:
           - icon: fa-solid fa-globe
-            url: https://github.com/EiadurRahman/mpu6050lib
+            url: https://nextworldit.com
+
+      - title: "A demo E-commerce website just for fun"
+        content: "A demo E-commerce website built using HTML, CSS, and JavaScript (hugo) and made lived by netlify. The website includes a home page, product listing page, product details page, and a cart page. The website is a simple demonstration of front-end web development skills."
+        image: /images/projects/ecom.png
+        featured:
+          name: "View the site"
+          link: https://ecomff.netlify.app
+        badges:
+          - "HTML,css,js,hugo"
+        links:
+          - icon: fa-solid fa-globe
+            url: https://ecomff.netlify.app
 
 
   #Contact
