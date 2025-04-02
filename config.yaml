@@ -319,7 +319,7 @@ params:
 
       - title: "MPU6050Lib"
         content: "A micropython library facilitating communication with the MPU6050 sensor, enabling easy initialization, reading accelerometer and gyroscope data, and performing various tasks on MicroPython-based microcontroller boards."
-        image: /images/projects/mpu6050.jpg
+        image: /images/projects/mpu6050_nbg.jpg
         featured:
           name: "View on GitHub"
           link: https://github.com/EiadurRahman/mpu6050lib
