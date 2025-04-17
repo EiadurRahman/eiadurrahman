@@ -334,7 +334,7 @@ params:
         image: /images/projects/nextworldIT.png
         featured:
           name: "View the site"
-          link: https://nextworldit.com
+          link: https://nxtcti.netlify.app
         badges:
           - "HTML,css,js,hugo"
         links:
@@ -352,6 +352,32 @@ params:
         links:
           - icon: fa-solid fa-globe
             url: https://ecomff.netlify.app
+
+      - title: "CodeContext"
+        content: "A Python tool that extracts code from your project and creates a comprehensive PDF document containing your project's structure and source code. This makes it easy to share your entire project context with LLMs like Claude for better understanding and assistance."
+        image: /images/projects/codecontext.png
+        featured:
+          name: "View on GitHub"
+          link: https://github.com/EiadurRahman/CodeContext
+        badges:
+          - "python"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/EiadurRahman/CodeContext
+
+
+      # - title: ""
+      #   content: ""
+      #   image: /images/projects/
+      #   featured:
+      #     name: ""
+      #     link: 
+      #   badges:
+      #     - ""
+      #   links:
+      #     - icon: 
+      #       url: 
+
 
 
   #Contact
